@@ -3,7 +3,7 @@ export default function specialAttackList(character) {
   const result = [];
   specialList.forEach((element) => {
     const {
-      id, name, icon, description = 'Описание недоступно'
+      id, name, icon, description = 'Описание недоступно',
     } = element;
     result.push({
       id,
