@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0x6ukcerru2qcvpe?svg=true)](https://ci.appveyor.com/project/Artem-Kukin/ajs-objects-destructuring)
